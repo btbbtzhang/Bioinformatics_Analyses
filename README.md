@@ -1,4 +1,4 @@
-# Bioinformatics_Analyses
+# Bioinformatics_Analyses (partially)
 
 
 1. GPU-Based Linear Regression for Detection of Epistasis (GLIDE)
